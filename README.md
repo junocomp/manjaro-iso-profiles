@@ -10,7 +10,7 @@ The iso needs to be built on top of Manjaro, make sure you have kernel 6.1 or hi
 ## Download the latest ISO profiles
 ```git clone https://github.com/junocomp/manjaro-iso-profiles.git ~/iso-profiles```
 
-```cd manjaro-iso-profiles```
+```cd iso-profiles```
 
 ## Prepare manjaro-tools.conf
 ```mkdir -p ~/.config/manjaro-tools```
