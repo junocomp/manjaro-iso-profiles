@@ -77,7 +77,7 @@ sddm
 norse-sddm-theme
 
 ## office
-qpdfview
+#qpdfview
 
 ## fonts
 ttf-dejavu
