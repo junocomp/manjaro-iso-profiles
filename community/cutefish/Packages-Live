@@ -1,0 +1,12 @@
+calamares
+grub-theme-live-manjaro
+#gsmartcontrol
+#manjaro-architect
+gparted
+manjaro-live-skel
+manjaro-live-systemd
+mkinitcpio-nfs-utils
+nbd
+clonezilla
+KERNEL-zfs
+zfs-utils
