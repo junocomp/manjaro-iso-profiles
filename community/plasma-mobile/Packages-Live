@@ -25,3 +25,11 @@ xfsprogs
 nilfs-utils
 gpart
 mtools
+
+## Plasma desktop
+plasma-desktop
+systemsettings
+kdelibs4support
+kemoticons
+kmenuedit
+libibus
