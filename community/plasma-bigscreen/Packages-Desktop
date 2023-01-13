@@ -134,3 +134,5 @@ juno-tablet
 thermald
 irqbalance
 power-profiles-daemon
+bluez-plugins
+bluez-utils
